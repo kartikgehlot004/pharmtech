@@ -1,0 +1,6 @@
+{
+  "name": "DawaiMitra – आपकी दवाई का साथी",
+  "description": "Voice-first AI medicine companion that decodes handwritten doctor prescriptions, provides schedules, audio explanations in 6 languages, and smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
